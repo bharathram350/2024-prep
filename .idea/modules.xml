@@ -3,9 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2024-prep.iml" filepath="$PROJECT_DIR$/2024-prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Rotate/Array Rotate.iml" filepath="$PROJECT_DIR$/Array Rotate/Array Rotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Downloads.iml" filepath="$PROJECT_DIR$/src/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Longest String/Find Longest String.iml" filepath="$PROJECT_DIR$/Find Longest String/Find Longest String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Max MIn/Find Max MIn.iml" filepath="$PROJECT_DIR$/Find Max MIn/Find Max MIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kth element in the array/Kth element in the array.iml" filepath="$PROJECT_DIR$/Kth element in the array/Kth element in the array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max Sub array/Max Sub array.iml" filepath="$PROJECT_DIR$/Max Sub array/Max Sub array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum and minimum/Maximum and minimum.iml" filepath="$PROJECT_DIR$/Maximum and minimum/Maximum and minimum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove Duplicates/Remove Duplicates.iml" filepath="$PROJECT_DIR$/Remove Duplicates/Remove Duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove element from array/Remove element from array.iml" filepath="$PROJECT_DIR$/Remove element from array/Remove element from array.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-0-1-2/array-0-1-2.iml" filepath="$PROJECT_DIR$/array-0-1-2/array-0-1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max Profit/max Profit.iml" filepath="$PROJECT_DIR$/max Profit/max Profit.iml" />
     </modules>
   </component>
 </project>
