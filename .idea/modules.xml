@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2024-prep.iml" filepath="$PROJECT_DIR$/2024-prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kth element in the array/Kth element in the array.iml" filepath="$PROJECT_DIR$/Kth element in the array/Kth element in the array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum and minimum/Maximum and minimum.iml" filepath="$PROJECT_DIR$/Maximum and minimum/Maximum and minimum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-0-1-2/array-0-1-2.iml" filepath="$PROJECT_DIR$/array-0-1-2/array-0-1-2.iml" />
+    </modules>
+  </component>
+</project>
